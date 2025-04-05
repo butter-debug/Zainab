@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi! I'm Zainab <br><br>Information Systems student at Drexel Univeristy <br><br>I am always up to creating new projects <br><br>I stay consistent by making a schedule and stay on dealines<br>
+Information Systems student at Drexel University 💻 <br>
+I’m passionate about building new projects and exploring creative solutions.<br>
+Consistency is my superpower—I stick to schedules and hit my deadlines. ⏱️ <br>
+Always learning, always building. Let’s connect and collaborate! <br>
 
 
 # 💻 Tech Stack:
